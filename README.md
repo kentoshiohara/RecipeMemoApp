@@ -43,7 +43,7 @@ Recipe Memo
 - フロントエンド：HTML&CSS / JavaScript
 - バックエンド：PHP / Laravel
 - インフラ：Docker
-- テスト：RSpec
+- テスト：手動
 - テキストエディタ：Visual Studio Code
 - タスク管理：github
 
@@ -53,12 +53,6 @@ Recipe Memo
 ## 結合テスト
 [結合テスト](https://docs.google.com/spreadsheets/d/1dwBHz6Grukjv0iCGeJH38pPb34ptBHpfZ0a5LW4UXPM/edit#gid=2092012291)
 
-## ローカルでの動作方法
-以下のコマンドを順に実行
-% git clone https://github.com/kentoshiohara/random_trip.git
-% cd xxxxxx
-% bundle install
-% yarn install
 
 ## テーブル設計
 
